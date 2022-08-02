@@ -17,13 +17,13 @@
 | :---------: | :-----------: | :---------: | :---------: |
 | _Nazgul_ |   |  |  ||  |off|off|
 | _Minju_     | 10am-5pm, 8pm-9pm| 11am-5pm | 11am-5pm | 11am-5pm | - |  |  |
-| _Haneefa_ |  |  |  | |  | |   |
+| _Haneefa_ |  12pm-8pm| 12pm-8pm| 12pm-8pm|
 
 ### How many hours everyone has per day
 
 - Minju:_5h_ ;
 - Nazgul: __;
-- Haneefa: __;
+- Haneefa: _5h_;
 
 ## Communication tools
 
