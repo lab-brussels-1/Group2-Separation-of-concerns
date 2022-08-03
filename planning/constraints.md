@@ -32,7 +32,7 @@ project success.
 
 :ballot_box_with_check: VSCode
 
-:ballot_box_with_check: javascript
+:ballot_box_with_check: Javascript
 <!--
   constraints that come from within your team, and you have no control over them. they may include:
   - each of your individual skill levels
