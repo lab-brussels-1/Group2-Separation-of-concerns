@@ -4,7 +4,7 @@ This Backlog is a collection of User Stories that our team has agreed on.
 
 ## Must Haves
 
-> these are necessary for basic usability
+> These are necessary for basic usability
 
 - As a user, I can see all the items in their list.
 - [x] _There is a drop-down at the top of the web page_
@@ -22,14 +22,14 @@ This Backlog is a collection of User Stories that our team has agreed on.
 
 ## Should Haves
 
-> will complete the user experience, but are not necessary
+> Will complete the user experience, but are not necessary
 
 - As a user, I can edit in the final shopping cart.
 - [x] _there is a edit option to add or remove items_
 
 ## Could Haves
 
-> would be really cool ... if there is time.
+> Would be really cool ... if there is time.
 
 - As a user, I can see Highlighted order summary box.
 - [x] _There is a highlighted summary box stylishly with css_
