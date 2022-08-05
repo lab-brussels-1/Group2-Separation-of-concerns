@@ -15,7 +15,7 @@ This Backlog is a collection of User Stories that our team has agreed on.
 - [x] _There is a button to remove the items_
 
 - As a user, I can edit the description of each item in their list.
-- [x] _There is a edit option to update_
+- [x] _There is an edit option to update_
 
 - As a user, I can mark an item as "done" or "not done".
 - [x] _There is a checkbox to select and deselect the item_

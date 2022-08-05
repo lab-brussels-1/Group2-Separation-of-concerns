@@ -15,7 +15,6 @@ Simple project with grocery cart, used HTML and JavaScript.
 - clear list
 - checkout;
 
-
 ### Should-Have
 
 - CSS style
