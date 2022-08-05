@@ -1,6 +1,11 @@
 {
 	"language": "en",
-	"words": ["Nepo", "callstack"],
+	"words": [
+		"callstack",
+		"Haneefa",
+		"Minju",
+		"Nepo"
+	],
 	"ignorePaths": [
 		"node_modules/**",
 		"package.json",
