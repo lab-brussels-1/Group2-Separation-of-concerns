@@ -1,4 +1,4 @@
-# Supermarket
+# Coffee shop
 
 Simple project with grocery cart, used HTML and JavaScript.
 **When you click any item, then you will see it listed in cart with price and amount.**
