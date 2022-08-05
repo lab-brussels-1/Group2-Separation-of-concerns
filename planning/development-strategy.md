@@ -1,6 +1,10 @@
 # CAFE SHOP
 
-Our group have decided to develop a page for Cafe shop.In our website ,customer can view the menu from a dropdown list , can add items to his/her profile ,can edit the description ,after selecting the item it will be marked done and finally he /she can remove the item.
+Our group have decided to develop a page for Cafe shop.
+In our website ,customer can view the menu from a dropdown list ,
+can add items to his/her profile ,can edit the description ,
+after selecting the item it will be marked done
+and finally he /she can remove the item.
 
 ## 0. Setup
 
@@ -24,7 +28,7 @@ There is a prominent title of the website at the top page
 
 `CSS`
 
-Positioned on the center of the site Styled with a color 
+Positioned on the center of the site Styled with a color
 
 ## 4. User Story_1
 
@@ -32,7 +36,8 @@ Positioned on the center of the site Styled with a color
 
 `HTML`
 
-- [ ] There is a dropdown in the center of the page which displays a list of items with its price .
+- [ ] There is a dropdown in the center of the page which displays
+a list of items with its price .
 
 `css`
 
@@ -54,10 +59,10 @@ Positioned on the center of the site Styled with a color
 
  [ ] Calls a function click that executes the handler when the button is clicked.
 
-
 `Handler`
 
- [ ]  Calls a function takes the value of the item to be added, saves the data and passes it to the Utility function.
+ [ ]  Calls a function takes the value of the item to be added,
+  saves the data and passes it to the Utility function.
 
 `Util`
 
@@ -81,7 +86,8 @@ Positioned on the center of the site Styled with a color
 
 `Handler`
 
- [ ]  Calls a function takes the value of the item to be removed, saves the data and passes it to the Utility function.
+ [ ]  Calls a function takes the value of the item to be removed,
+  saves the data and passes it to the Utility function.
 
 `Util`
 
@@ -105,7 +111,8 @@ Positioned on the center of the site Styled with a color
 
 `Handler`
 
- [ ]  Calls a function takes the no: and amount of the item to be updated, saves the data and passes it to the Utility function.
+ [ ]  Calls a function takes the no: and amount of the item
+ to be updated, saves the data and passes it to the Utility function.
 
 `Util`
 
@@ -125,11 +132,13 @@ Positioned on the center of the site Styled with a color
 
 `Listener`
 
- [ ] Calls a function 'click' that executes the handler when the select/deselect box is checked.
+ [ ] Calls a function 'click' that executes the handler
+  when the select/deselect box is checked.
 
 `Handler`
 
- [ ]  Calls a function takes value of the item checked, saves the data and passes it to the Utility function.
+ [ ]  Calls a function takes value of the item checked,
+  saves the data and passes it to the Utility function.
 
 `Util`
 
@@ -138,13 +147,15 @@ Positioned on the center of the site Styled with a color
 ## 10. Footer
 
 As a user  I want to know the
-address of the organization base, and would be able to contact/check them on
+address of the organization base,
+and would be able to contact/check them on
 their address and social media to be able to ask questions
 and see any updates.
 
  `HTML`
 
-- [ ] Have a footer on the end of the page with contact information, address and social media.
+- [ ] Have a footer on the end of the page with
+contact information, address and social media.
 
  `CSS`
 
