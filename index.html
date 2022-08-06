@@ -9,8 +9,23 @@
 		<link href="./client/styles/index.css" rel="stylesheet" />
 	</head>
 	<body>
-		<div id="root"></div>
-
-		<script type="module" src="./client/src/init.js"></script>
-	</body>
+		<section class="center" id="user-interface">
+		  <form>
+			<h1>CAFE SHOP </h1>
+			</br>
+			<div class="add-section">
+			  <input type="text" id="product" name="product" list="productList">
+				<datalist id="productList">
+				  <option value="Cafe">
+				  <option value="Sugar">
+				  <option value="Milk">
+				</datalist>
+			  <input type="button" id="add-product" value="ADD" />
+			</div>
+		  </form>
+		  <code id="added-value" class="output"></code>
+		</section>
+	
+		<script type="module" src="./src/init.js"></script>
+	  </body>
 </html>
