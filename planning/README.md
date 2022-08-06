@@ -3,8 +3,6 @@
 This week task is simple project with grocery cart to practice on `Separation of
 concerns`. We should practice using DOM, listeners, handlers, separating JS files.
 
-
-
 **When you click any item, then you will see it listed in cart with price and amount.**
 
 The members of **Group2**:
