@@ -1,4 +1,6 @@
-document.getElementById('add-product').addEventListener('click', (event) => {
+
+ document.getElementById('add-product').addEventListener('click', (event) =>
+ {
 	const form = event.target.form;
 	const valueToadd = form.value.value;
 	const newvariable = String(valueToadd);
