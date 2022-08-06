@@ -12,6 +12,9 @@
 			"files": ["**/utils/**/*.js"],
 			"env": {
 				"browser": false
+			},
+			"rules": {
+				"indent": "off"
 			}
 		},
 		{
