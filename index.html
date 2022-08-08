@@ -4,25 +4,32 @@
 		<meta charset="UTF-8" />
 		<link rel="icon" type="image/svg+xml" href="./client/public/favicon.svg" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>SOC Starter</title>
+		<title>Cafe Shop</title>
 
 		<link href="./client/styles/index.css" rel="stylesheet" />
 	</head>
 	<body>
 		<section class="center" id="user-interface">
 			<h1>CAFE SHOP</h1>
+			<form>
+			Select Your item:
 			<div class="add-section">
-				<input type="text" id="product" name="product" list="productList" />
-				<datalist id="productList">
-					<option>value="Cafe"</option>
-					<option>value="Sugar"</option>
-					<option>value="Milk"</option>
-				</datalist>
+					<select  id="mySelect">
+					<option>Bread</option>
+					<option>Chesse</option>
+					<option>coffee</option>
+				  </select>
+				  <br>
+				  Item to be added:
+				  <input name="value" type="text" id="input-text-id"/>
 				<button type="button" id="add-product">ADD</button>
+				<br>
+				<button type="submit" >add to cart</button>
 			</div>
+			</form>
 			<code id="added-value" class="output"></code>
 		</section>
 
-		<script type="module" src="./src/init.js"></script>
+		<script type="module" src="./client/src/init.js"></script>
 	</body>
 </html>
