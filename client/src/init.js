@@ -1,7 +1,5 @@
 document.getElementById('add-product').addEventListener('click', (event) => {
-  const item = document.getElementById('input-text-id').value
- // const valueToadd = item.value.value;
- // const newvariable = String(valueToadd);
+  const item = document.getElementById('input-text-id').value;
   const x = document.getElementById('mySelect');
   const option = document.createElement('option');
   option.text = item;
