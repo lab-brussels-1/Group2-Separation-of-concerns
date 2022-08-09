@@ -7,5 +7,5 @@ export const addToCart = () => {
   const selectedItem = document.getElementById(OUTPUT_ID).value;
   pushToCartState(capitalizeFirstLetter(selectedItem));
   const cartValue = renderCart();
-  document.getElementById(ADDED_ITEM_ID).append(cartValue);
+  document.getElementById(ADDED_ITEM_ID).innerHTML = cartValue;
 };
