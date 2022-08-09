@@ -11,7 +11,6 @@ export const OUTPUT_ID = 'mySelect';
 export const ADD_CART_ID = 'add-to-cart';
 export const ADDED_ITEM_ID = 'added-item';
 
-
 // classes
 
 // ... other things?
