@@ -1,5 +1,5 @@
 /*
-*/
+ */
 import { USER_ACTION, REMOVE_ID, ADD_CART_ID } from '../data/constants.js';
 import { click } from './listeners/addlistener.js';
 import { removeClick } from './listeners/removelistener.js';
