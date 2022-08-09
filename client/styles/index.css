@@ -14,3 +14,23 @@ body {
 h1 {
   text-align: center;
 }
+
+.increase {
+  background-color: hsl(117, 100%, 36%);
+  color: white;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.decrease {
+  background-color: #ef4141;
+  color: white;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.output {
+  padding: 20px;
+  margin-top: 20px;
+  float: left;
+}
