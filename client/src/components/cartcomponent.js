@@ -6,7 +6,7 @@ export const renderCart = () => {
   // adding value to the output container
   const updatedCarts = Object.entries(state.carts);
 
-  // updating the cart components
+  // updating the cart component
   const cartList = updatedCarts
     .map(
       ([key, value]) =>
