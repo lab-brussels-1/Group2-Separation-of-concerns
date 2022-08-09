@@ -13,4 +13,3 @@ import { removeClick } from './listeners/removelistener.js';
 
 click(document.getElementById(USER_ACTION));
 removeClick(document.getElementById(REMOVE_ID));
-

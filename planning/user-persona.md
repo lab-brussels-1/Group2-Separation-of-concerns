@@ -12,4 +12,3 @@ Have a meeting with team; Have fun and socialize with friends.
 deadlines, working in comfort coffee shop.
 
 ![User-persona](victoria.png)
-

@@ -11,4 +11,3 @@ export const OUTPUT_ID = 'mySelect';
 // classes
 
 // ... other things?
-
