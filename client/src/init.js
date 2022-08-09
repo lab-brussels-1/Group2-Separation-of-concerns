@@ -6,3 +6,7 @@ document.getElementById('add-product').addEventListener('click', (event) => {
   option.text = additem;
   x.add(option, x[0]);
 });
+
+// remove item
+var x = document.getElementById("mySelect");
+x.remove(x.selectedIndex);
