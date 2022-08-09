@@ -9,12 +9,11 @@ export const renderCart = () => {
   // updating the cart component
   const cartList = updatedCarts
     .map(
-      ([key, value]) =>
-        '<li><label>' +
-        key +
-        '</label> <button class="increase" id="increase">+</button><label>' +
-        value +
-        '</label><button class="decrease" id="decrease">-</button></li>',
+      ([key, value]) => '<li><label>'
+        + key
+        + '</label> <button class="increase" id="increase">+</button><label>'
+        + value
+        + '</label><button class="decrease" id="decrease">-</button></li>',
     )
     .join('\n');
 
