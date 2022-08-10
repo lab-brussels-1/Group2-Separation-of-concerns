@@ -11,13 +11,12 @@
 	<body>
 		<section class="center" id="user-interface">
 			<h1>CAFE SHOP</h1>
-			<form>
 			Select Your item:
 			<div class="add-section">
 					<select  id="mySelect">
 						<option>Bread</option>
-						<option>Chesse</option>
-						<option>coffee</option>
+						<option>Cheese</option>
+						<option>Coffee</option>
 					</select>
 					<br>
 					<button type="button" id="remove-product">REMOVE</button>
@@ -26,12 +25,11 @@
 				  <input name="value" type="text" id="name-input"/>
 				<button type="button" id="add-product">ADD</button>
 				<br>
-				<button type="submit" >add to cart</button>
+				<button type="button" id="add-to-cart">add to cart</button>
 			</div>
-			</form>
-			<code id="added-value" class="output"></code>
+			<code id="added-item" class="output"></code>
 		</section>
-
+		
 		<script type="module" src="./client/src/init.js"></script>
 	</body>
 </html>
